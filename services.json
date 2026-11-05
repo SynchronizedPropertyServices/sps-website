@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Excavation & Site Preparation",
+    "image": "excavation",
+    "category": "Groundwork",
+    "description": "Small excavation projects, site grading, trenching and preparation for property improvements. We use compact equipment to work efficiently where access is limited.",
+    "full": "Small excavation and site preparation"
+  },
+  {
+    "title": "Driveway Repairs & Gravel Resurfacing",
+    "image": "driveways",
+    "category": "Groundwork",
+    "description": "Repair worn gravel driveways, address potholes and low spots, improve drainage and refresh surfaces with suitable aggregate. Work is assessed for access and ground conditions.",
+    "full": "Driveway repairs and gravel resurfacing"
+  },
+  {
+    "title": "Lawn Care & Maintenance",
+    "image": "lawn",
+    "category": "Maintenance",
+    "description": "Routine lawn mowing, trimming, seasonal yard care and general grounds upkeep for residential and commercial properties. Ask about recurring service arrangements.",
+    "full": "Lawn care and maintenance"
+  },
+  {
+    "title": "Deck Building & Repair",
+    "image": "deck",
+    "category": "Repairs",
+    "description": "New deck construction, replacement of deteriorated boards, railings and steps, and repairs to existing outdoor spaces, subject to applicable permits and building requirements.",
+    "full": "Deck building and repair"
+  },
+  {
+    "title": "Gutter Cleaning",
+    "image": "gutters",
+    "category": "Maintenance",
+    "description": "Removal of leaves and debris from accessible gutters and downspout openings, plus a visual check for obvious drainage concerns.",
+    "full": "Gutter cleaning"
+  },
+  {
+    "title": "Chimney Cleaning",
+    "image": "chimney",
+    "category": "Maintenance",
+    "description": "Chimney cleaning inquiries and maintenance coordination, subject to equipment, access and applicable qualifications. Inspection or certification is not implied.",
+    "full": "Chimney cleaning"
+  },
+  {
+    "title": "Drainage Trenching & Improvements",
+    "image": "excavation",
+    "category": "Groundwork",
+    "description": "Small drainage trenches, surface-water diversion, gravel drainage improvements and drainage preparation. We assess slope, soil, utilities and appropriate discharge locations.",
+    "full": "Drainage trenching and small drainage improvements"
+  },
+  {
+    "title": "Stump Removal & Property Cleanup",
+    "image": "lawn",
+    "category": "Groundwork",
+    "description": "Small stump and root removal where feasible, brush and debris cleanup, yard clearing and site tidying to prepare properties for their next use.",
+    "full": "Stump removal and property cleanup"
+  },
+  {
+    "title": "Shed & Garage Pad Preparation",
+    "image": "driveways",
+    "category": "Groundwork",
+    "description": "Excavation and preparation of compacted granular bases for sheds, garages and outbuildings, according to the project requirements and approved plans.",
+    "full": "Shed and garage pad preparation"
+  },
+  {
+    "title": "Contractor Excavation Support",
+    "image": "excavation",
+    "category": "Groundwork",
+    "description": "Compact excavator and operator support for contractors needing assistance with trenching, material movement, small excavations or site preparation.",
+    "full": "Small contractor excavation support"
+  },
+  {
+    "title": "Material Delivery & Debris Removal",
+    "image": "driveways",
+    "category": "Maintenance",
+    "description": "Delivery of suitable bulk materials and removal of permitted debris using a pickup and dump trailer, with disposal and hauling arranged for the job.",
+    "full": "Material delivery and debris removal"
+  },
+  {
+    "title": "General Handyman Services",
+    "image": "deck",
+    "category": "Repairs",
+    "description": "General property repairs, fixture and hardware replacement, minor carpentry and practical maintenance tasks that do not require specialized trade licensing.",
+    "full": "General handyman services"
+  },
+  {
+    "title": "Barn Repair",
+    "image": "deck",
+    "category": "Repairs",
+    "description": "Practical repairs and maintenance for barns and rural outbuildings, including siding, doors, boards and minor non-structural repairs. Structural work is assessed separately.",
+    "full": "Barn repair"
+  },
+  {
+    "title": "Residential & Commercial Cleaning",
+    "image": "gutters",
+    "category": "Maintenance",
+    "description": "Property cleaning, move-in or move-out cleaning, common-area cleaning and general interior or exterior cleaning arrangements tailored to the site.",
+    "full": "Residential and commercial cleaning"
+  },
+  {
+    "title": "Water & Sewer Service Replacement",
+    "image": "excavation",
+    "category": "Groundwork",
+    "description": "Excavation and support for water and sewer service replacement projects, coordinated with the appropriate licensed trades, utility locates, permits and inspections.",
+    "full": "Water and sewer service replacement"
+  },
+  {
+    "title": "Residential & Commercial Property Maintenance",
+    "image": "lawn",
+    "category": "Maintenance",
+    "description": "Ongoing property upkeep, seasonal maintenance, minor repairs, grounds care and tailored maintenance arrangements for homes, businesses and rural properties.",
+    "full": "Residential and commercial property maintenance"
+  }
+]
